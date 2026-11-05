@@ -1,0 +1,6 @@
+pandas
+holidays
+meteostat
+requests
+statsmodels
+matplotlib
